@@ -111,7 +111,11 @@ function won(){
 }
 
 function reset(){
-    allEnemies = [];
+    if(won){
+        player.x = 202;
+        player.y = 400;
+        game = true;
+    }
 }
 
 function collision(px, py, pw, ph, ex, ey, ew, eh){
