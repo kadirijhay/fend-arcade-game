@@ -1,20 +1,27 @@
 # Classic Arcade Game Clone Project
 
-## Table of Contents
+## How to Load Game
+* Download file from [here](https://github.com/KadiriJhay/fend-arcade-game/archive/master.zip)
+* Unzip and load `index.html`
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+## How to Play
 
-## Instructions on me
+#### Rules
+* Navigate player to reach water (at the top)
+* Avoid colission with enemy bugs moving across the screen
+* Colission with bugs resets the game
+* Reaching the top succesfully triggers a `you won!` message
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+#### Controls
+```
+Use :arrow_left: key to move left
+Use :arrow_right: key to move right
+Use :arrow_up: key to move up
+Use :arrow_down: key to move down
+```
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+## Disclaimer
+_This game is guaranteed to function well on desktop devices but won't function well on mobile devices as touch functions was not implemented._
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## License
+This Project is Licensed under the Terms of [MIT License](license.md)
