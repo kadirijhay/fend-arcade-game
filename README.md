@@ -5,7 +5,7 @@
 - [Instructions](#instructions)
 - [Contributing](#contributing)
 
-## Instructions
+## Instructions on me
 
 Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
 
