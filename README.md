@@ -9,8 +9,7 @@
 - [License](#license)
 
 ## How to Load Game
-* Download file from [here](https://github.com/KadiriJhay/fend-arcade-game/archive/master.zip)
-* Unzip and load `index.html`
+Play online by clicking [here](https://kadirijhay.github.io/fend-arcade-game)
 
 ## How to Play
 
